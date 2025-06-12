@@ -2,6 +2,6 @@ I'm a software engineer, product developer and entrepreneur who is passionate ab
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevinelliott&theme=nord&show_icons=true)
 
-[![](https://ossrank.com/widget/439785)](https://ossrank.com/c/439785)
+[![OSSRank](https://ossrank.com/widget/439785)](https://ossrank.com/c/439785)
 
 [![](https://ossrank.com/widget/925679)](https://ossrank.com/c/925679)
